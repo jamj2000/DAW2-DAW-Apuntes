@@ -1,9 +1,9 @@
-# Apuntes del módulo Desarrollo de Aplicaciones Web
+# Apuntes del módulo Despliegue de Aplicaciones Web
 
 2º DAW  
 Écija (Sevilla)  
 
-![Desarrollo de Aplicaciones Web](http://jamj2000.github.io/despliegueaplicacionesweb/despliegueaplicacionesweb.png)
+![Despliegue de Aplicaciones Web](http://jamj2000.github.io/despliegueaplicacionesweb/despliegueaplicacionesweb.png)
 
 
 ## Contenidos del módulo
